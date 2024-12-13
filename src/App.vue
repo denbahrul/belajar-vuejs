@@ -8,6 +8,7 @@ import CompositionComponent from "./components/CompositionComponent.vue";
   <OptionsComponent />
   <CompositionComponent />
   <HelloWorld msg="Oke bangggg" />
+  <MainButton />
 </template>
 
 <style scoped></style>
